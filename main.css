@@ -1,0 +1,26 @@
+a{
+display:block!important;
+-webkit-transition:-webkit-transform 1s ease-out;
+-moz-transition:-moz-transform 1s ease-out;
+-o-transition:-o-transform 1s ease-out;
+-ms-transition:-ms-transform 1s ease-out;
+transition:transform 1s ease-out;
+    font-size: 90px;
+    text-align: center;
+    border: 3px solid #FFB6C1;
+    width: 500px;
+    margin:20px;
+}
+a:hover{
+-moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1)
+}
+body{
+   background-image: url(img/1671236_3.jpg);
+  background-repeat:no-repeat;
+    background-size: 1599px;
+    
+}
