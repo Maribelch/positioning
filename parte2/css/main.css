@@ -1,1 +1,27 @@
-/* Pon tu código css aqui */
+.caja1{
+    width: 200px;
+    height: 200px;
+   position: relative;
+    margin: 0px;
+    padding: 0px;
+    background-color:#ee3e64;
+    left: 200px;
+}
+.caja2{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+      background-color:#44accf;
+    left: 200px;
+}
+.caja3{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background-color:#b7d84b;
+    left: 200px;
+}
