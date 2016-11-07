@@ -1,1 +1,24 @@
-/* Pon tu código css aqui */
+.caja1{
+    width: 200px;
+    height: 200px;
+   position: static;
+    margin: 0px;
+    padding: 0px;
+    background-color:#ee3e64;
+}
+.caja2{
+    width: 200px;
+    height: 200px;
+    position: static;
+    margin: 0px;
+    padding: 0px;
+      background-color:#44accf;
+}
+.caja3{
+    width: 200px;
+    height: 200px;
+    position: static;
+    margin: 0px;
+    padding: 0px;
+    background-color:#b7d84b;
+}
